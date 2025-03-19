@@ -6,7 +6,7 @@ This Jupyter Notebook demonstrates **Natural Language Processing (NLP) technique
 ## 📂 Contents of the Notebook  
 
 ### 1. Syntactic Analysis  
-- **Tokenization**: Extracts words and sentences.  
+- **Tokenisation**: Extracts words and sentences.  
 - **Stopword Removal**: Filters out common words that do not contribute meaning.  
 - **Lemmatisation**: Converts words to their base form.  
 - **POS Tagging**: Identifies the grammatical role of words.  
@@ -29,7 +29,7 @@ This Jupyter Notebook demonstrates **Natural Language Processing (NLP) technique
 - Identifies key **themes** in AI, finance, and other domains.
 
 ### 5. Use of ChatGPT Prompts   
-- Promtp for Syntantic Analysis  
+- Prompt for Syntantic Analysis  
 - Prompt for Semantic Analysis
 - Prompt for Emotion Extraction
 - Prompt for Topic Modelling
