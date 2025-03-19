@@ -1,4 +1,4 @@
-# 📌 UHK Seminar Demo - NLP Analysis using Python
+# 📌 Basic NLP Analysis using Python
 
 ## 📖 Overview  
 This Jupyter Notebook demonstrates **Natural Language Processing (NLP) techniques** using Python. It covers **syntactic analysis, sentiment analysis, emotion extraction, semantic analysis, and topic modelling**, providing structured insights into text.
